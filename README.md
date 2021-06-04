@@ -4,7 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/77254428/120841521-cde3f600-c595-11eb-989b-93610d6d3e39.png)
 
-Menambahkan data 
+![image](https://user-images.githubusercontent.com/77254428/120844516-ae4ecc80-c599-11eb-957e-487436e30fa5.png)
+
+
+menambahkan data 
 
 INSERT INTO data_barang (kategori, nama, gambar, harga_beli, harga_jual, stok)
 VALUES ('Elektronik', 'HP Samsung Android', 'hp_samsung.jpg', 2000000, 2400000, 5),
