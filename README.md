@@ -34,9 +34,9 @@ Buat file baru dengan nama koneksi.php
 Buat file baru dengan nama index.php
 
 ![image](https://user-images.githubusercontent.com/77254428/120842807-69299b00-c597-11eb-9d23-40b4934f8650.png)
-![image](https://user-images.githubusercontent.com/77254428/120842963-adb53680-c597-11eb-87dd-4a1112096c78.png)
+![image](https://user-images.githubusercontent.com/77254428/120877022-6a31eb00-c5de-11eb-920a-efb6de443807.png)
 
-Menambah Data (Create)
+Menambah Data (Buat)
 Buat file baru dengan nama tambah.php
 
 ![image](https://user-images.githubusercontent.com/77254428/120843070-db9a7b00-c597-11eb-9279-a85f22149590.png)
