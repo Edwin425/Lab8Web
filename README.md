@@ -53,4 +53,7 @@ Menghapus Data (Delete)
 Buat file baru dengan nama hapus.php
 ![image](https://user-images.githubusercontent.com/77254428/120843580-7b580900-c598-11eb-846e-061193956714.png)
 
+Dan terakhir muncul ubah / hapus sesuai keinginan kita.
+![image](https://user-images.githubusercontent.com/77254428/120881648-c99ef380-c5fc-11eb-8fd3-258ba46c0e4a.png)
+
 
